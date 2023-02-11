@@ -56,7 +56,7 @@ function dfs(board, x, y, rows, cols, boxes) {
     }
   }
   return false;
-};
+}
 
 let board = [
   [".","3","6","1",".","5",".","9","."],
